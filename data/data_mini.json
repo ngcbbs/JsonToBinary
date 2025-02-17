@@ -1,0 +1,101 @@
+{
+  "result": [
+    {
+      "message": "Hello, Claire! Your order number is: #45",
+      "phoneNumber": "(513) 731-1199 x08452",
+      "phoneVariation": "+90 377 512 10 31",
+      "status": "disabled",
+      "name": {
+        "first": "Myron",
+        "middle": "Dakota",
+        "last": "Fahey"
+      },
+      "username": "Myron-Fahey",
+      "password": "jqhljEjb1QVBpp9",
+      "emails": [
+        "Liana.Ernser@gmail.com",
+        "Skyla_Becker79@example.com"
+      ],
+      "test-value1": 1,
+      "test-value2": 10000,
+      "test-value3": 10000.1234,
+      "test-value4": 10000.123456,
+      "location": {
+        "street": "9383 Stark Mountains",
+        "city": "Ondrickaboro",
+        "state": "Indiana",
+        "country": "Taiwan",
+        "zip": "20077-6434",
+        "coordinates": {
+          "latitude": "0.3597",
+          "longitude": "-120.0826"
+        }
+      },
+      "website": "https://smug-twig.net/",
+      "domain": "failing-artifact.info",
+      "job": {
+        "title": "Forward Marketing Officer",
+        "descriptor": "Principal",
+        "area": "Security",
+        "type": "Representative",
+        "company": "Ledner, Gleichner and Waelchi"
+      },
+      "creditCard": {
+        "number": "3036-600398-4332",
+        "cvv": "837",
+        "issuer": "mastercard"
+      },
+      "uuid": "e6d1cadb-cdde-4eb1-9f46-13e38a03c989",
+      "objectId": "67b31542af7e507e7a3e15d5"
+    },
+    {
+      "message": "Hello, Earnestine! Your order number is: #32",
+      "phoneNumber": "(782) 549-3319",
+      "phoneVariation": "+90 337 921 10 63",
+      "status": "disabled",
+      "name": {
+        "first": "Arvid",
+        "middle": "Riley",
+        "last": "Morar"
+      },
+      "username": "Arvid-Morar",
+      "password": "BLrqQcTDKOZI0Xi",
+      "emails": [
+        "Savion86@gmail.com",
+        "Rose.Farrell53@example.com"
+      ],
+      "test-value1": 1,
+      "test-value2": 10000,
+      "test-value3": 10000.1234,
+      "test-value4": 10000.123456,
+      "location": {
+        "street": "4080 Heathcote Unions",
+        "city": "Kozeymouth",
+        "state": "Missouri",
+        "country": "Niue",
+        "zip": "29063-4303",
+        "coordinates": {
+          "latitude": "13.7178",
+          "longitude": "155.0569"
+        }
+      },
+      "website": "https://funny-television.biz/",
+      "domain": "passionate-blanket.com",
+      "job": {
+        "title": "Investor Identity Orchestrator",
+        "descriptor": "Investor",
+        "area": "Division",
+        "type": "Technician",
+        "company": "Stroman and Sons"
+      },
+      "arrayValueTest": [
+        1,2,3,4,5
+      ],
+      "anotherTest": ["1", null, "2"],
+      "creditCard": null,
+      "uuid": "f517242f-cf17-4254-b3ba-bab68ba5e222",
+      "objectId": "67b31542af7e507e7a3e15d6"
+    }
+  ],
+  "hello": "world"
+}
